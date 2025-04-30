@@ -1,4 +1,3 @@
-```markdown
 # Phaigo - Payments Made Simple
 
 Visit: [App](https://phaigo.vercel.app) (Alpha Version)  
@@ -114,4 +113,3 @@ Future plans include:
 
 Visit: [phaigo live](https://phaigo.vercel.app)  
 _Alpha version – expect occasional bugs & rate-limiting._
-
